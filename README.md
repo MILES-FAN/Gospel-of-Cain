@@ -5,6 +5,10 @@
 
 [![Static Badge](https://img.shields.io/badge/itch.io-Play_Now-green?logo=html5)](https://nucleargpu.itch.io/gospel-of-cain)
 
+[![Static Badge](https://img.shields.io/badge/Gameplay_Video-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=b1-lDdGeu38)
+
+[![Static Badge](https://img.shields.io/badge/Download-English_Version_英語版-blue?logo=unity)](
+
 [![Gospel of Cain](https://image.gcores.com/aeadefab-dc75-4512-9647-21cd41917d43.png?x-oss-process=image/quality,q_90/format,webp)](https://nucleargpu.itch.io/gospel-of-cain)
 
 ## Introduction / イントロダクション / 介绍
@@ -40,11 +44,12 @@ We hope you enjoy our game!
 
 ## Playable Demo / プレイ可能なデモ / 可玩演示
 
-[![Download](https://img.shields.io/badge/Download-中文版-blue?logo=unity)](https://www.gcores.com/games/81335)
+[![Download](https://img.shields.io/badge/Download-English_Version_英語版-blue?logo=unity)](https://github.com/MILES-FAN/Gospel-of-Cain/releases)
 
-[![Download](https://img.shields.io/badge/Download-English_Version_英語版-blue?logo=unity)](https://www.gcores.com/games/81335)
 
 [![Play in Browser](https://img.shields.io/badge/Play%20in%20Browser-English_Version_英語版-green?logo=html5)](https://nucleargpu.itch.io/gospel-of-cain)
+
+[![Download](https://img.shields.io/badge/Download-中文版-blue?logo=unity)](https://www.gcores.com/games/81335)
 
 ## Control guide / 操作ガイド / 操作指南
 
