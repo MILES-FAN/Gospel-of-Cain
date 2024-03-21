@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3902766932231152368}
   - component: {fileID: 3902766932231152369}
   m_Layer: 0
-  m_Name: "\u5373\u6B7B\u533A\u57DF"
+  m_Name: InstantDeath
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

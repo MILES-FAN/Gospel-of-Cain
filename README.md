@@ -1,6 +1,8 @@
 # Gospel-Of-Cain
 
-[Gospel of Cain Booom contest page](https://www.gcores.com/games/81335)
+![Static Badge](https://img.shields.io/badge/Booom_Page-Gospel_of_Cain-orange?link=https%3A%2F%2Fwww.gcores.com%2Fgames%2F81335)
+![Static Badge](https://img.shields.io/badge/itch.io-Play_Now-green?link=https%3A%2F%2Fnucleargpu.itch.io%2Fgospel-of-cain)
+
 
 ![Gospel of Cain](https://image.gcores.com/aeadefab-dc75-4512-9647-21cd41917d43.png?x-oss-process=image/quality,q_90/format,webp)
 
@@ -34,9 +36,6 @@ We hope you enjoy our game!
 可当他真正踏入塔内，又有什么事在等着他呢？
 尝试运用哥哥的帮助，跨越层层阻碍，到达塔顶吧
 希望大家喜欢我们做的游戏
-
-操作引导：ad/摇杆控制方向，空格/摇杆A键跳跃，左右键/扳机键甩动机器人，LShift/手柄X键吸附，E/手柄B键交互
-
 
 ## Control guide / 操作ガイド / 操作指南
 
@@ -80,4 +79,43 @@ Chinese Version: [booom游戏组件开发文档.md](documents/booom游戏组件�
 
 [中文版 (Download): https://www.gcores.com/games/81335](https://www.gcores.com/games/81335)
 
-[English Version/英語版 (WebGL): https://itch.io/](https://itch.io/)
+[English Version/英語版 (WebGL): https://nucleargpu.itch.io/gospel-of-cain/](https://nucleargpu.itch.io/gospel-of-cain)
+
+## Credits / クレジット / 制作人员
+
+### Game Design / プランナー / 游戏设计
+
+- **Tianshan**
+
+### Art / アート / 美术
+
+- **Dukewen**
+- **Shuichuanyou**
+- **Tianshan**
+
+### Programming / プログラミング / 编程
+
+- **Fan**
+
+### Testing / テスト / 测试
+
+- **Fan**
+- **Tianshan**
+
+### Writing / ライティング / 写作
+
+- **Topia**
+- **Tianshan**
+
+### Music / 音楽 / 音乐
+
+- **Wudao**
+
+### Thanks / 感謝 / 感谢
+
+- kenney.nl
+- aigei.com
+- Brackeys
+- Sebastian Lague
+- Tarodev
+- Sadi
