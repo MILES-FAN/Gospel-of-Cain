@@ -1,10 +1,11 @@
 # Gospel-Of-Cain
 
-![Static Badge](https://img.shields.io/badge/Booom_Page-Gospel_of_Cain-orange?link=https%3A%2F%2Fwww.gcores.com%2Fgames%2F81335)
-![Static Badge](https://img.shields.io/badge/itch.io-Play_Now-green?link=https%3A%2F%2Fnucleargpu.itch.io%2Fgospel-of-cain)
+[![Static Badge](https://img.shields.io/badge/Booom_Page-Gospel_of_Cain-orange)](https://www.gcores.com/games/81335)
 
 
-![Gospel of Cain](https://image.gcores.com/aeadefab-dc75-4512-9647-21cd41917d43.png?x-oss-process=image/quality,q_90/format,webp)
+[![Static Badge](https://img.shields.io/badge/itch.io-Play_Now-green?logo=html5)](https://nucleargpu.itch.io/gospel-of-cain)
+
+[![Gospel of Cain](https://image.gcores.com/aeadefab-dc75-4512-9647-21cd41917d43.png?x-oss-process=image/quality,q_90/format,webp)](https://nucleargpu.itch.io/gospel-of-cain)
 
 ## Introduction / イントロダクション / 介绍
 
@@ -36,6 +37,14 @@ We hope you enjoy our game!
 可当他真正踏入塔内，又有什么事在等着他呢？
 尝试运用哥哥的帮助，跨越层层阻碍，到达塔顶吧
 希望大家喜欢我们做的游戏
+
+## Playable Demo / プレイ可能なデモ / 可玩演示
+
+[![Download](https://img.shields.io/badge/Download-中文版-blue?logo=unity)](https://www.gcores.com/games/81335)
+
+[![Download](https://img.shields.io/badge/Download-English_Version_英語版-blue?logo=unity)](https://www.gcores.com/games/81335)
+
+[![Play in Browser](https://img.shields.io/badge/Play%20in%20Browser-English_Version_英語版-green?logo=html5)](https://nucleargpu.itch.io/gospel-of-cain)
 
 ## Control guide / 操作ガイド / 操作指南
 
@@ -70,16 +79,9 @@ E/手柄B键**交互**
 
 ## Game Components Development Document / ゲームコンポーネント開発ドキュメント / 游戏组件开发文档
 
-Japanese Version: [booomゲームコンポーネント開発ドキュメント.md](documents/booomゲームコンポーネント開発ドキュメント.md)
+日本語ドキュメント: [booomゲームコンポーネント開発ドキュメント.md](documents/booomゲームコンポーネント開発ドキュメント.md)
 
 Chinese Version: [booom游戏组件开发文档.md](documents/booom游戏组件开发文档.md)
-
-
-## Playable Demo / プレイ可能なデモ / 可玩演示
-
-[中文版 (Download): https://www.gcores.com/games/81335](https://www.gcores.com/games/81335)
-
-[English Version/英語版 (WebGL): https://nucleargpu.itch.io/gospel-of-cain/](https://nucleargpu.itch.io/gospel-of-cain)
 
 ## Credits / クレジット / 制作人员
 
