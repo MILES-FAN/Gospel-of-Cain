@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9af92b5c7961fb4597a1005870b29e8, type: 3}
+  m_Name: PlayerMovementSettings
+  m_EditorClassIdentifier: 
+  terrainLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  groundFriction: 0.2
+  jumpHeight: 2
+  jumpCheckDistance: 1
+  jumpCheckRadius: 0.5
+  jumpCD: 0.5
+  _currentHorizontalSpeed: 0
+  _acceleration: 90
+  _moveClamp: 5
+  _deAcceleration: 60
+  _apexBonus: 2
+  walkSFX: {fileID: 8300000, guid: 879dfa4ac7ed1284196704100d8ef8cc, type: 3}
+  jumpSFX: {fileID: 8300000, guid: d6199a64dcb696b4b9e9cbdbbb42ac1b, type: 3}
+  landSFX: {fileID: 8300000, guid: b98aaff61af601b49b29d135e0b68b18, type: 3}
